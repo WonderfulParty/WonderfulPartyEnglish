@@ -1,6 +1,6 @@
 # This is an unofficial English translation of Gochuumon wa Usagi Desu ka?? Wonderful Party!
 
-Work in progress. The scenario translation is currently 26% complete. The common route and most of Sharo's scenes are done.
+Work in progress. The scenario translation is currently 37% complete. The common route, Sharo route, and all of Sharo's choices are done.
 
 You can learn more about the game here:
 https://vndb.org/v18457
