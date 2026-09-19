@@ -1,6 +1,6 @@
 # This is an unofficial English translation of Gochuumon wa Usagi Desu ka?? Wonderful Party!
 
-Rumors of this project's abandonment were slightly exaggerated. The scenario translation is 76% complete. The common route, all common route branches (weekday flyers, weekend visits, etc.), and the Sharo route are done.
+Rumors of this project's abandonment were slightly exaggerated. The scenario translation is 82% complete. The common route, all common route branches (weekday flyers, weekend visits, etc.), Sharo's route, and Chiya's route are done.
 
 You can learn more about the game here:
 https://vndb.org/v18457
